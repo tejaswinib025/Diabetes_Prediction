@@ -1,11 +1,12 @@
 # Diabetes_Prediction
 
-
+____________________________________________________________________________
 
 📘 Problem Statement
+
 Predicting the likelihood of diabetes in individuals using clinical and biometric attributes, and identifying which features contribute most to the prediction?
 
-
+_____________________________________________________________________________
 
 🧠 Skills Applied
 Data Cleaning & Imputation
@@ -22,6 +23,7 @@ Performance Evaluation (accuracy, confusion matrix)
 
 Time Series Simulation + Analysis
 
+______________________________________________________________________________
 
 
 🗃️ Dataset Summary
@@ -33,7 +35,7 @@ Target Variable: diabetes (0 = No, 1 = Yes)
 
 Key Features: glucose_conc, bmi, age, insulin, etc.
 
-
+_______________________________________________________________________________
 
 📊 Highlights
 
@@ -47,7 +49,7 @@ Key Features: glucose_conc, bmi, age, insulin, etc.
 
 🧪 T-test showed significant difference in glucose_conc by outcome group
 
-
+_______________________________________________________________________________
 
 🚀 How to Run
 
