@@ -39,21 +39,21 @@ _______________________________________________________________________________
 
 📊 Highlights
 
-⚖️ Replaced medically impossible zeroes with column medians
+Replaced medically impossible zeroes with column medians
 
-🔍 Strongest predictors: glucose_conc, age, bmi, num_preg
+Strongest predictors: glucose_conc, age, bmi, num_preg
 
-📈 Model accuracy: ~71% with Logistic Regression
+Model accuracy: ~71% with Logistic Regression
 
-📅 Simulated checkup trends using time series
+Simulated checkup trends using time series
 
-🧪 T-test showed significant difference in glucose_conc by outcome group
+T-test showed significant difference in glucose_conc by outcome group
 
 _______________________________________________________________________________
 
 🚀 How to Run
 
-bash
+In cmd :
 
 pip install -r requirements.txt  # if needed
 
